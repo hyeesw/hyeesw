@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 </br></br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeesw&layout=compact">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeeun7904">
 </div>
 
 
