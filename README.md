@@ -1,19 +1,18 @@
 ## 💫 About me
-안녕하세요!&nbsp; 다양한 **도구**(지식)를 갖춰 **최적의 솔루션**을 내는 **백엔드** 개발자가 목표인 <ins>김혜은</ins> 입니다! 🙌
-<br>
+안녕하세요!&nbsp; 다양한 **도구**(지식)를 갖춰 **최적의 솔루션**을 내는 **백엔드** 개발자가 목표인 <ins>김혜은</ins> 입니다! 🙌 </br>
+Hello! I am <ins>Haeeun Kim</ins>, aspiring to be a **Backend** developer who delivers **optimal solutions** with a diverse toolkit of knowledge and skills!
 
-## 📫 How to reach me
-<div style="display:flex; flex-direction:row;">
+#### 🏷️ Contact
  <a href="mailto:whyeesw@gmail.com">
    <img src="https://img.shields.io/badge/whyeesw@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whyeesw@gmail.com"/>
  </a>
   <a href="https://open.kakao.com/o/hyeeun7904">
       <img src="https://img.shields.io/badge/OpenKakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk"> 
   </a>
-</div>
-<br>
+<br><br>
 
-## 🔨 Once I've used 🔨
+
+## 💻 Technical Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -28,9 +27,13 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+	<img src="https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white">
         <img src="https://img.shields.io/badge/Java-D93A32?style=for-the-badge&logo=Java&logoColor=white">  
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
     </div>
     <br>
     <!-- Database -->
@@ -40,18 +43,10 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     </div>
-    <br>
-    <!-- Framework -->
-    <p><strong>Framework</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
     </div>
     <br>
-    <!-- devops -->
-    <p><strong>devops</strong></p>
+    <!-- DevOps -->
+    <p><strong>DevOps</strong></p>
     <div>
         <img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black"> 
         <img src="https://img.shields.io/badge/aws s3-569A31?style=for-the-badge&logo=amazons3&logoColor=black">
@@ -74,11 +69,6 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     </div>
     <br>
-    <!-- Development Tools -->
-    <p><strong>Development Tools</strong></p>
-    <div>        
-      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    </div>
 <br>
 </div>
+
