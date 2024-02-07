@@ -1,14 +1,11 @@
 ## 💫 About me
-안녕하세요!&nbsp; 다양한 **도구**(지식)를 갖춰 **최적의 솔루션**을 내는 **백엔드** 개발자가 목표인 <ins>김혜은</ins> 입니다! 🙌 </br>
-Hello! I am <ins>Haeeun Kim</ins>, aspiring to be a **Backend** developer who delivers **optimal solutions** with a diverse toolkit of knowledge and skills!
+- 안녕하세요!&nbsp; 다양한 **도구**(지식)를 갖춰 **최적의 솔루션**을 내는 **백엔드** 개발자가 목표인 <ins>김혜은</ins> 입니다! 🙌 </br>
+- Hello! I am <ins>Haeeun Kim</ins>, aspiring to be a **Backend** developer who delivers **optimal solutions** with a diverse toolkit of knowledge and skills!
 
 #### 🏷️ Contact
  <a href="mailto:whyeesw@gmail.com">
    <img src="https://img.shields.io/badge/whyeesw@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whyeesw@gmail.com"/>
  </a>
-  <a href="https://open.kakao.com/o/hyeeun7904">
-      <img src="https://img.shields.io/badge/OpenKakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk"> 
-  </a>
 <br><br>
 
 
