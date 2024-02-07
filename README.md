@@ -1,49 +1,80 @@
-<!--
-**hyeesw/hyeesw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-</br>
-<div align="center">
-  ⚡ Main Computer Skills ⚡ </br></br>
-<!-- <img src="https://img.shields.io/badge/Java-87CF3E?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> -->
-  
-<img src="https://github.com/hyeesw/hyeesw/assets/84231143/4ad97023-2c6d-4bd0-9762-c77fc9f5866a" width="78"/>
-<img src="https://img.shields.io/badge/Python-007CFF?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-3a584d?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS3&logoColor=black"/>
-
-  
+## 📫 How to reach me:
+<div style="display:flex; flex-direction:row;">
+ <a href="mailto:whyeesw@gmail.com">
+   <img src="https://img.shields.io/badge/whyeesw@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whyeesw@gmail.com"/>
+ </a>
+  <a href="https://open.kakao.com/o/hyeeun7904">
+      <img src="https://img.shields.io/badge/OpenKakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk"> 
+  </a>
 </div>
-</br></br>
-<div align="center">
- 🌱 Sub Computer Skills 🌱</br></br>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-017bc7?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<br>
+    
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Ajax-00758F?style=for-the-badge&logo=ajax&logoColor=white">
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    </div> 
+    <br>
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">  
+    </div>
+    <br>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/mongoDB-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/sqlite-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
+    <br>
+    <!-- Framework -->
+    <p><strong>Framework</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/expressjs-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/django-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+    </div>
+    <br>
+    <!-- devops -->
+    <p><strong>devops</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/aws ec2-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/aws s3-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/github action-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+    </div>
+    <br>
+    <!-- Version Control -->
+    <p><strong>Version Control</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </div>
+    <br>
+    <!-- Communication -->
+    <p><strong>Communication</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/slack-7D57C1?style=for-the-badge&logo=staruml&logoColor=white">
+	      <img src="https://img.shields.io/badge/notion-7D57C1?style=for-the-badge&logo=staruml&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    </div>
+    <br>
+    <!-- Development Tools -->
+    <p><strong>Development Tools</strong></p>
+    <div>        
+      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    </div>
+<br>
 </div>
-</br>
-<div align="center">
- 🎯 Certificate 🎯</br></br>
-<img src="https://img.shields.io/badge/SQLD-FFA116?style=for-the-badge&logo=MySQL&logoColor=white"/>
-</div>
-
-</br></br>
-<div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeesw&layout=compact"> -->
-</div>
-
-
